@@ -1,0 +1,18 @@
+[] Iniciar
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html
+[] toString()
+[] put()
+[] containsKey()
+[] get()
+[] keySet()
+[] values
+[] entrySet();
+[] getValue();
+[] getKey();
+[] iterator()
+[] iterator().hasNext()
+[] iterator().next()
+[] LinkedHashMap()
+[] new TreeMap()
+[] clear()
+[] isEmpty()
